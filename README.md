@@ -1,3 +1,5 @@
+**Important**: This repostiory has moved to [ampproject/bento.dev](https://github.com/ampproject/bento.dev).
+
 # bento.dev
 
 The official homepage of the Bento.
